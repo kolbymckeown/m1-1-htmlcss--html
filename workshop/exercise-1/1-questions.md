@@ -24,6 +24,8 @@ _Feel free to use the powers of Google here, but please provide link(s) to your 
 
 Screenreaders are important for those who are visually impaired, or who understand better by hearing rather than visually. It's also important to note that in late 2019, the Federal government put in place laws so that websites need to be accessible for people with impairements.
 
+Source: Material taught during our lecture!
+
 
 
 
@@ -46,10 +48,12 @@ b) You want to create a website that lists all the art gallery websites in your 
 
 c) You want to sell designer hats. You need to receive orders from the user.
 
+    <form>, with <label> tags as well.
 
 
 ## Q4 - Can a button be a child of a button? Explain your reasoning
 
+    
 
 
 
@@ -80,11 +84,10 @@ g) `td` - table data
 
 ## Q7 - Usually, `td` elements are children of what kind of elements?
 
-
+    Table Header
 
 ## Q8 - What is the difference between td and th?
-
-
+    <td> shows the info of a specific header (<th>) The <th> is used for an entire column, whereas <td> fills in the column with the necessary information.
 
 ## Q9 - Which tag makes the text appear bigger: h1 or h3?
     <h1>
@@ -92,11 +95,11 @@ g) `td` - table data
 
 
 ## Q10 - In which situation can you use self closing tags?
-
+    You can use self closing tags with whichever tag allows it, such as <img>, <area>, or <br>
 
 
 ## Q11 - What is autofilling and why is it important?
-
+    Autofilling allows the browser to predict the value of what is being inputed, and gives the user the choice to use that value. This is important as it makes many sites user friendly and quicker to navigate.
 
 
 ## Q12 - Which attributes are always present in an img element?
